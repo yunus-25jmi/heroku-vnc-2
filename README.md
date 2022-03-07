@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://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@github.com/yunus-25jmi/heroku-vnc)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F&template=https://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@github.com/yunus-25jmi/heroku-vnc-)
 # NoVNC-for-Heroku
 **Running a VNC server + NoVNC client on Heroku app**
 
@@ -10,7 +10,7 @@
   - Can be easily customized
   - Support Chinese Language and Pinyin input method, check Readme.txt in Desktop
   - Use keyboard Shift button to switch input method
-  - Modified from megatron0000/heroku-vnc
+  - Modified from megatron0000/
   - Password: demo2020
   - Display resolution setting command:
   
